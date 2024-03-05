@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding,ethical hacking
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 my insta ac is (bhaskar_9878)
+- 📫 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i am king
 
